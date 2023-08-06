@@ -9,7 +9,20 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 // some icon
-const texts = ["Have", "😆", "a", "😁", "good", "😍", "day", "😉!"];
+const texts = [
+    "Wish",
+    "😘",
+    "you",
+    "😊",
+    "Have",
+    "😆",
+    "a",
+    "😁",
+    "good",
+    "😍",
+    "day",
+    "😉!",
+];
 
 // Controls the speed of morphing.
 const morphTime = 1;
