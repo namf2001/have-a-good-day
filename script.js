@@ -10,17 +10,17 @@ const elts = {
 // The strings to morph between. You can change these to anything you want!
 // some icon
 const texts = [
-    "Wish",
+    "Never",
     
-    "you",
+    "Give",
     
-    "Have",
-    
-    "a",
+    "up",
+    "💪",
+//    "a",
 
-    "good",
+//    "good",
     
-    "day",
+//    "day",
     "😉!",
 ];
 
