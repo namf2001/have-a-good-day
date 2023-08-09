@@ -11,15 +11,15 @@ const elts = {
 // some icon
 const texts = [
     "Wish",
-    "😘",
+    
     "you",
-    "😊",
+    
     "Have",
-    "😆",
+    
     "a",
-    "😁",
+
     "good",
-    "😍",
+    
     "day",
     "😉!",
 ];
